@@ -1,2 +1,3 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-# hai this is kutyy!
+
+https://www.quirkybyte.com/wp-content/uploads/2017/07/5084104-john-wick-03-e1535013953484.jpg
+# hai this is me!
