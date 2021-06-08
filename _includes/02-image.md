@@ -1,3 +1,3 @@
 
-[hey look at this!] (https://www.quirkybyte.com/wp-content/uploads/2017/07/5084104-john-wick-03-e1535013953484.jpg)
-# hai this is me!
+[hey look at this!] (https://octodex.github.com/images/Kimonotocat.png)
+# hai this is kimmy!
